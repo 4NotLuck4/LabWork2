@@ -43,7 +43,6 @@
                     Click="BtnRegister_Click"/>
             <Button x:Name="BtnClear" Content="Очистить"
                     Width="100" Height="30" Click="BtnClear_Click"/>
-
         </StackPanel>
     </Grid>
 </Window>

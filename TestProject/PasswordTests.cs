@@ -21,7 +21,7 @@ namespace TestProject.Tests
         [InlineData("As1dff!Asdff!Asdff!Asd!Asdff!Asdff!Asdff!Asd!Asdff")]
         [InlineData("As!rrrdff")]
         [InlineData("Asd1aaaff")]
-        [InlineData("ASDFG1HJKL!")]
+        [InlineData("ASDFG1HJKL!")] 
         [InlineData("aaaa1sdff!")]
         [InlineData("Aaaa1sdffё!")]
         [InlineData("")]
